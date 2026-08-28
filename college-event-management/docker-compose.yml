@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  # Add your services here (frontend, backend, db, etc.)
+  placeholder:
+    image: alpine:latest
+    command: ["sh", "-c", "echo 'Replace this service with your stack' && sleep 3600"]
